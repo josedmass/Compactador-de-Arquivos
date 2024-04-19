@@ -1,0 +1,26 @@
+TESTE PARA EXEMPLIFICAR O TRABALHO PRÁTICO DA DISCIPLINA DE ESTRUTURA DE DADOS, REALIZADO EM 2023/01
+
+Este programa será capaz de compactar este arquivo de entrada em um de saída, reduzindo o seu tamanho em bytes, 
+a partir do algoritmo de Huffman, elucidado em Documentacao.pdf. Além disso, ele é capaz de descompactar o arquivo
+que foi compactado pelo mesmo, retornando ao arquivo de origem. Isso é muito útil para sistemas com uma quantidade
+grande de arquivos e que precisam economizar na quantidade de espaço utilizada!
+
+This program will be able to compress this input file into an output one, reducing its size in bytes,
+based on the Huffman algorithm, explained in Documentacao.pdf. Furthermore, it is able to decompress the file
+which was compressed by it, returning to the source file. This is very useful for systems with a number
+large number of files and need to save on the amount of space used!
+
+Este programa será capaz de comprimir este archivo de entrada en uno de salida, reduciendo su tamaño en bytes,
+basado en el algoritmo de Huffman, explicado en Documentacao.pdf. Además, es capaz de descomprimir el archivo.
+que fue comprimido por él, volviendo al archivo fuente. Esto es muy útil para sistemas con un número
+¡Gran cantidad de archivos y necesidad de ahorrar en la cantidad de espacio utilizado!
+
+Эта программа сможет сжать этот входной файл в выходной, уменьшив его размер в байтах,
+на основе алгоритма Хаффмана, описанного в Documentacao.pdf. Кроме того, он может распаковать файл
+который был сжат им, возвращаясь к исходному файлу. Это очень полезно для систем с числом
+большое количество файлов и необходимо экономить на объеме используемого места!
+
+このプログラムは、この入力ファイルを出力ファイルに圧縮して、サイズをバイト単位で削減できます。
+Documentacao.pdf で説明されているハフマン アルゴリズムに基づいています。 さらに、ファイルを解凍することもできます
+それによって圧縮され、ソースファイルに戻ります。 これは、数値を含むシステムに非常に役立ちます。
+ファイルの数が多いため、使用されるスペースの量を節約する必要があります。
